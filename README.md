@@ -1,1 +1,5 @@
-![HR chatbot](https://github.com/rassel25/Interview-Chatbot/assets/36706178/170fd8ac-3e73-44c6-a21c-982d4d6caeb4)
+
+
+
+https://github.com/rassel25/Interview-Chatbot/assets/36706178/f5bf3e51-e628-44a9-b348-4a01ad3e87b8
+
