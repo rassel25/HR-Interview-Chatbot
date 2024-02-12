@@ -26,5 +26,5 @@ The project welcomes contributions, suggestions for improvement, and bug fixes. 
 This HR interview chatbot project provides a valuable tool for job seekers to practice and prepare for interviews, leveraging advanced language models and a user-friendly interface through Streamlit.
 
 
-https://github.com/rassel25/Interview-Chatbot/assets/36706178/f5bf3e51-e628-44a9-b348-4a01ad3e87b8
+
 
