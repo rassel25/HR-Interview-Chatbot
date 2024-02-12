@@ -3,6 +3,7 @@
 This project is a Human Resources (HR) interview chatbot that leverages Large Language Models (LLM), Retrieval Augmented Generation (RAG), and a vector database to assist job seekers in preparing for behavioral interviews. The chatbot analyzes job descriptions to generate tailored interview questions using the RAG technique, gives ratings to the answers to questions, and provides answers to common interview queries. The application is developed using Streamlit, a popular Python library for creating web apps with minimal effort.
 ### Getting Started
 To get started, you must write the position and company name you are applying for. The chatbot will then analyze the text and generate questions and answers from a question-answer source using the RAG technique. It will generate 4 behavioral questions.
+
 ![image](https://github.com/rassel25/Interview-Chatbot/assets/36706178/31ee7b8a-0b53-4fb4-baa7-e4888211a413)
 
 ## Features:
@@ -13,6 +14,9 @@ To get started, you must write the position and company name you are applying fo
 - Enables users to practice interview scenarios as if conversing with an actual interviewer because of the voice assistant.
 ### Usage:
 To use the chatbot, users simply run the Streamlit app and follow the prompts to describe the job description. They can then engage with the chatbot to prepare for their upcoming interviews.
+
+https://github.com/rassel25/Interview-Chatbot/assets/36706178/f5bf3e51-e628-44a9-b348-4a01ad3e87b8
+
 ## Future Work:
 The project's future goals include optimizing the chatbot's speed, enhancing the front end, and addressing limitations such as topic deviations.
 ### Limitations:
