@@ -1,4 +1,4 @@
-### HR Interview Chatbot 
+# HR Interview Chatbot 
 This project is a Human Resources (HR) interview chatbot that leverages Large Language Models (LLM), Retrieval Augmented Generation (RAG), and a vector database to assist job seekers in preparing for behavior interviews. The chatbot analyzes job descriptions to generate tailored interview questions using the RAG technique, gives ratings to the answers to questions, and provides answers to common interview queries. The application is developed using Streamlit, a popular Python library for creating web apps with minimal effort.
 Features:
 - Generates personalized interview questions based on the job description.
